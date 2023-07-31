@@ -12,3 +12,7 @@ print(mathematical(bucket1, bucket2))
 bucket3 = 3
 bucket4 = 2
 print(mathematical(bucket3, bucket4))
+
+#range practice
+for i in range(0, 110, 10):
+    print(i)
